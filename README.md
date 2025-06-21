@@ -75,8 +75,8 @@ Computer_Vision_Takehome_Assignment_1/
 ├── Task2_Blurring.ipynb
 ├── Task3_Rotation.ipynb
 ├── Task4_Block_Average.ipynb
-│
-└── README.md
+├── README.md
+
 ```
 
 ---
